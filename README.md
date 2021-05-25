@@ -6,6 +6,7 @@ Crea conversaciones automaticas de whatsapp con ayuda de selenium y una integrac
    
  1. Instalar selenium, si ejecutas el siguiente comando en la consola de tu sistema operativo se descargara automaticamente:
     >   pip install selenium
+    >   
     >   pip install firebase_admin
 
  1. Descargar el webDriver que corresponda a su browser preferido
